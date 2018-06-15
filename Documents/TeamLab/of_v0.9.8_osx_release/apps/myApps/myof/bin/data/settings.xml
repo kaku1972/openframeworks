@@ -1,0 +1,11 @@
+<settings>
+    <screenwidth>1920</screenwidth>
+    <screenheight>1080</screenheight>
+    <framerate>60</framrate>
+    <increaserate>100</increaserate>
+    <max>400</max>
+    <order>1</order>
+    <order>3</2order>
+    <order>2</3order>
+<!--    <sceneName>field</sceneName>-->
+</settings>
